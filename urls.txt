@@ -11,3 +11,5 @@ https://lightningxvpn.com/blog/cn/telegram-groups/
 https://github.com/jackhawks/rectg
 https://github.com/FandGroup/FandGroup.github.io
 # Update: 2025-10-10
+
+# Update: 2025-10-14
